@@ -22,6 +22,7 @@ a:hover {
 h1 {
     font-size: 4em;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
+    color: #ff0000;
 }
 p {
     font-size: 1.5em;
